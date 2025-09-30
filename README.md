@@ -1,7 +1,7 @@
 # EnvironmentTest - React Native Project
 
 ## Project Description
-This is Lab 1 for CPAN 213, Cross-Platform Mobile Development, created using modern React Native CLI.
+This my is Lab 1 for CPAN 213, Cross-Platform Mobile Development, created using modern React Native CLI.
 
 ## Getting Started
 1. Clone the repository
@@ -16,13 +16,11 @@ This is Lab 1 for CPAN 213, Cross-Platform Mobile Development, created using mod
 - Custom welcome screen with personal information
 - My course goals 
 
-## Development EnvironmentDevelopment Environment
+## Development Environment
 - React Native v0.81.4
-- Andriod Studio v2025.1.3
+- Android Studio v2025.1.3
 - Metro v0.83.1
 - Node.js v20
 
 ## Repository
 - **GitHub**: https://github.com/Rud223-web/EnvironmentTest
-- **Live Demo**: [Add if you deploy later]
-
