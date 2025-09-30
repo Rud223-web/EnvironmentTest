@@ -2,6 +2,16 @@
   "name": "EnvironmentTest",
   "version": "0.0.1",
   "private": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rud223-web/EnvironmentTest.git"
+  },
+  "homepage": "https://github.com/Rud223-web/EnvironmentTest#readme",
+  "bugs": {
+    "url": "https://github.com/Rud223-web/EnvironmentTest/issues"
+  },
+  "keywords": ["react-native", "mobile", "cpan213"]
+},
   "scripts": {
     "android": "react-native run-android",
     "ios": "react-native run-ios",
